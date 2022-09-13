@@ -8,7 +8,8 @@ let std_name = "Mathieu Lebaron"
 document.querySelector('#std_name').innerHTML = `<strong>${std_name}</strong>`
 
 //Then: comes everything else
-// TODO: explode, reticulate splines, discombobulate
+// TODO: explode, reticulate splines, discombobulate,
+
 
 import * as d3 from "d3";
 
